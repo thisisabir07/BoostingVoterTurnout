@@ -2,7 +2,7 @@
 
 This project analyzes survey data from a large worker community to understand and address factors influencing voter turnout in union elections. Using Power BI, this project visualizes key insights to help union leaders and council members develop strategies that encourage greater participation.
 
-### Project Link: https://shorturl.at/TFre9
+### PowerBI Dashboard Link: https://shorturl.at/TFre9
 
 ## Project Overview
 
