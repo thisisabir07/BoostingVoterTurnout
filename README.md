@@ -18,9 +18,8 @@ In preparation for an upcoming union election, a survey was conducted to gather 
 
 ## Power BI Visualizations
 
-Interactive Power BI dashboards present data-driven insights for each aspect of the survey:
-
-- **Demographic Trends**: Charts and filters to examine turnout across age, job role, tenure, and education.
+Interactive Power BI dashboards present data-driven insights for each aspect of the survey: 
+- **Demographic Trends**: Charts and filters to examine turnout across age, job role, tenure, and education. ![Boosting Voter Turnout PowerBI Dashboard-1](https://github.com/user-attachments/assets/10c99bdb-4d06-40ac-b785-f7b36b9b94b5)
 - **Non-Participation Analysis**: Visual breakdown of reasons for not voting, highlighting patterns across demographic groups.
 - **Trust in Leadership**: Trust scores and confidence levels in company and union leadership bodies, correlated with voting likelihood.
 - **Workplace Satisfaction & Voting**: Relationships between job satisfaction metrics and voting behavior.
