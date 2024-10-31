@@ -3,6 +3,7 @@
 This project analyzes survey data from a large worker community to understand and address factors influencing voter turnout in union elections. Using Power BI, this project visualizes key insights to help union leaders and council members develop strategies that encourage greater participation.
 
 ### PowerBI Dashboard Link: https://shorturl.at/TFre9
+### Github Pages Link: https://thisisabir07.github.io/BoostingVoterTurnout/
 
 ## Project Overview
 
@@ -29,16 +30,5 @@ Interactive Power BI dashboards present data-driven insights for a few aspect of
 
 - **Voting Method Preferences**: Employee preferences for voting methods, showcasing the perceived security and convenience of each. ![Boosting Voter Turnout PowerBI Dashboard-7](https://github.com/user-attachments/assets/649d9393-f221-496d-b0bb-f77597a2caef)
 
-
-## Repository Contents
-
-- **Power BI Reports**: Includes PBIX files with all visualizations and interactive dashboards.
-- **Power BI report in Pdf format**
-- **Dataset folder**: Contains the Dataset used to make visualizations.
-- **Problem statement**
-- **Questionnaire**
-
-## Getting Started
-
-To explore the Power BI visualizations, download the .pbix file and open it in Power BI Desktop, alternatively a direct link to the Power BI report is povided above.
+##
 
