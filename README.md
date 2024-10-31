@@ -2,7 +2,7 @@
 
 This project analyzes survey data from a large worker community to understand and address factors influencing voter turnout in union elections. Using Power BI, this project visualizes key insights to help union leaders and council members develop strategies that encourage greater participation.
 
-## Project Link: https://shorturl.at/TFre9
+### Project Link: https://shorturl.at/TFre9
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ In preparation for an upcoming union election, a survey was conducted to gather 
 
 ## Power BI Visualizations
 
-Interactive Power BI dashboards present data-driven insights for each aspect of the survey: 
+Interactive Power BI dashboards present data-driven insights for a few aspect of the survey: 
 - **Demographic Trends**: Charts and filters to examine turnout across age, job role, tenure, and education. ![Boosting Voter Turnout PowerBI Dashboard-1](https://github.com/user-attachments/assets/10c99bdb-4d06-40ac-b785-f7b36b9b94b5)
 - **Participation Analysis**: Visual breakdown of reasons for not voting, highlighting patterns across demographic groups. ![Boosting Voter Turnout PowerBI Dashboard-2](https://github.com/user-attachments/assets/3b80886d-6c79-4097-b2ec-e82c9ab4d9a8)
 - **Opinion of Election Outcome**: Visual representation of the opinion of members regarding the outcome of the elections. ![Boosting Voter Turnout PowerBI Dashboard-4](https://github.com/user-attachments/assets/783add10-590b-487b-a76d-bc8d64e28b0e)
