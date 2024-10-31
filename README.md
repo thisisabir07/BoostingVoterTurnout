@@ -2,6 +2,8 @@
 
 This project analyzes survey data from a large worker community to understand and address factors influencing voter turnout in union elections. Using Power BI, this project visualizes key insights to help union leaders and council members develop strategies that encourage greater participation.
 
+## Project Link: https://shorturl.at/TFre9
+
 ## Project Overview
 
 In preparation for an upcoming union election, a survey was conducted to gather workers' perspectives on topics including trust in the voting process, barriers to voting, perceptions of leadership, workplace satisfaction, and preferred voting methods. This analysis is part of a broader effort to ensure union elections are representative of the entire worker community.
