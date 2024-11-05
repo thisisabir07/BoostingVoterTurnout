@@ -2,8 +2,8 @@
 
 This project analyzes survey data from a large worker community to understand and address factors influencing voter turnout in union elections. Using Power BI, this project visualizes key insights to help union leaders and council members develop strategies that encourage greater participation.
 
-### PowerBI Dashboard Link: https://shorturl.at/TFre9
-### Github Pages Link: https://thisisabir07.github.io/BoostingVoterTurnout/
+### PowerBI Dashboard Link: [Link](https://shorturl.at/w6rKH)
+### Github Pages Link: [Link](https://thisisabir07.github.io/BoostingVoterTurnout/)
 
 ## Project Overview
 
