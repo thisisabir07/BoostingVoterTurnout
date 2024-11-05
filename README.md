@@ -26,7 +26,7 @@ Interactive Power BI dashboards present data-driven insights for a few aspect of
 
 - **Trust in Leadership**: Trust scores and confidence levels in company and union leadership bodies, correlated with voting likelihood. ![Boosting Voter Turnout PowerBI Dashboard-6](https://github.com/user-attachments/assets/9b5dd83f-6f67-45ab-b3bf-e19da028a7e3)
 
-- **Workplace Satisfaction & Voting**: Relationships between job satisfaction metrics and voting behavior. ![Boosting Voter Turnout PowerBI Dashboard-6](https://github.com/user-attachments/assets/84f3c284-cc9b-4660-9281-11606bb7b564)
+- **Opinion of Company structure and Attributes of Good Leadership**: The opinion of people of the current union structure and attributes desired by the people in Good Leaders. ![Boosting Voter Turnout PowerBI Dashboard-5](https://github.com/user-attachments/assets/0a412062-62aa-4881-827d-ea80b48112dd)
 
 - **Voting Method Preferences**: Employee preferences for voting methods, showcasing the perceived security and convenience of each. ![Boosting Voter Turnout PowerBI Dashboard-7](https://github.com/user-attachments/assets/649d9393-f221-496d-b0bb-f77597a2caef)
 
